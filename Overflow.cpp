@@ -2,7 +2,7 @@
 
 int main() {
 
-	//Initializing the variable x as the upper limit of the numerical type char.
+	//Initializing the variable x as the upper limit of the numerical type unsigned char.
 	unsigned char x = 255;
 	++x;//Adding 1 unit to x.
 
